@@ -18,6 +18,8 @@ variants:
         handle: 'image--full'
         context:
           src: '/illustrations/work.svg'
+          width: 741
+          height: 474
       button:
         label: Read more
   - name: left
@@ -28,5 +30,7 @@ variants:
         handle: 'image--full'
         context:
           src: '/illustrations/scrum-board.svg'
+          width: 822
+          height: 580
       button: '@section--right.button'
       componentClass: md:order-2

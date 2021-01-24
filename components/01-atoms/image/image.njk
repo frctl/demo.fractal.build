@@ -1,1 +1,1 @@
-<img src="{{ src | path }}" alt="{{ alt }}" loading="lazy" class="image{% if class %} {{ class }}{% endif %}" />
+<img src="{{ src | path }}" alt="{{ alt }}" loading="lazy" class="image{% if class %} {{ class }}{% endif %}"{% if width %} width="{{ width }}"{% endif %}{% if height %} height="{{ height }}"{% endif %} />
