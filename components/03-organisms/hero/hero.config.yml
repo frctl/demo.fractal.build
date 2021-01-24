@@ -7,11 +7,11 @@ context:
     primary:
       href: '#'
       label: Get started
-      class: w-full
+      class: block w-full
     secondary:
       href: '#'
       label: Learn more
-      class: w-full
+      class: block w-full
   component:
     handle: image
     context:
