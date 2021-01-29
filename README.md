@@ -1,6 +1,6 @@
 # Fractal demo instance
 
-This is an example instance of [Fractal](https://github.com/frctl/fractal) using the [Nunjucks adapter](https://github.com/frctl/fractal/tree/main/packages/nunjucks) and deployed on [fractal-demo.netlify.app](https://fractal-demo.netlify.app/).
+This is an example instance of [Fractal](https://github.com/frctl/fractal) using the [Nunjucks adapter](https://github.com/frctl/fractal/tree/main/packages/nunjucks) and deployed on [demo.fractal.build](https://demo.fractal.build/).
 
 ## Setup
 
