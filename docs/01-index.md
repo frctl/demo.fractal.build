@@ -6,6 +6,7 @@ The components showcased are purely fictional and were created solely for the de
 
 ## Thank you
 
+-   to [Netlify](https://www.netlify.com/) for the hosting
 -   to [unDraw](https://undraw.co/) for the illustrations
 -   to [Unsplash](https://unsplash.com/) for the pictures
 -   to [Heroicons](https://heroicons.com/) for the icons
