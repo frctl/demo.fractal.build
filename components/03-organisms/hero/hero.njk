@@ -17,12 +17,12 @@
                 {% if buttons.primary or buttons.secondary %}
                     <div class="mt-6 flex flex-wrap gap-y-4 gap-x-6">
                         {% if buttons.primary %}
-                            <div class="flex-1 whitespace-no-wrap">
+                            <div class="flex-1 whitespace-nowrap">
                                 {% render '@button', buttons.primary, true %}
                             </div>
                         {% endif %}
                         {% if buttons.secondary %}
-                            <div class="flex-1 whitespace-no-wrap">
+                            <div class="flex-1 whitespace-nowrap">
                                 {% render '@button--secondary', buttons.secondary, true %}
                             </div>
                         {% endif %}

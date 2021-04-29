@@ -8,7 +8,7 @@ context:
       src: /logos/kind.svg
       alt: Kind
     - link: https://www.liip.ch/
-      src: /logos/Liip.svg
+      src: /logos/liip.svg
       alt: Liip
     - link: https://slab.com/
       src: /logos/slab.svg
