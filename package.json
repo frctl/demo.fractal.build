@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "clean": "rimraf dist",
-    "start": "concurrently 'fractal start --sync' 'webpack --mode development --watch'",
+    "start": "concurrently \"fractal start --sync\" \"webpack --mode development --watch\"",
     "build": "npm run clean && npm run build:webpack && npm run build:fractal",
     "build:webpack": "NODE_ENV=production webpack --mode production",
     "build:fractal": "fractal build"
